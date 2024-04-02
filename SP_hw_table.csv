@@ -1,0 +1,55 @@
+Hardware Type,Publications
+Pressure Sensors (97),
+Thin and Flexible Pressure Sensor (TFPS) (85),"ren2019lightsit, ren2019healthsit, moon2013comparison, ng1995evaluation, hongztan1997chair, tan1999sensing, slivovsky2000realtime, tan2001sensing, zhu2003templatebased, mutlu2007robust, daian2007sensitive, ferro2009sensing, yingzheng2010vibrotactile, vanderdoelen2011tactile, xu2012sensing, goossens2012office, huang2012sitting, wang2013virtualspine, barba2015development, speir2015posturechair, suzuki2016sitting, wang2017preliminary, roossien2017can, hayashi2017harmless, ma2017posture, martinaitis2018low, bibbo2018nonintrusive, wang2018virtualspine, bibbo2019sitting, fragkiadakis2019design, ishaku2019flexible, prueksanusak2019ergonomic, sandybekov2019posture, anwary2019real, arrogi2019validation, matuska2020smart, anwary2020monitoring, hu2020smart, liu2021development, wang2021sitting, cun2021sitting, shen2021seatplus, perez2021sitting, gelaw2022posture, kazuhirokamiya2008sitting, tessendorf2009unsupervised, meyer2010design, fradet2011use, xu2011ecushion, bao2013sitting, xu2013ecushion, ahn2015development, min2015pretty, park2016design, ahmad2017sitting, huang2017smart, guanqingliang2017smart, kim2018classification, kim2019designing, liu2019sitting, moshnyaga2019design, soenandi2019real, takeda2019posture, zhu2019smart, rus2019etextile, goldstein2020realtime, ahmad2021proposal, cai2021improved, fujita2021tiltchair, licciardo2021resource, luna-perejon2021iot, ran2021portable, wan2021hip, yuan2021smart, fan2022deep, jaffery2022fsrbased, lamberti2022smart, kumar2016carechair, ishac2017smart, ishac2018lifechair, bourahmoune2019aipowered, bourahmoune2022intelligent, braun2015capacitive, cheng2013smart, skach2018smart"
+Air pressure inside a bladder (5),"martins2014intelligent, pereira2015system, ribeiro2015optimization, martins2015realtime, martins2016optimization"
+force transducer (3),"schrempf2011posturecare, haller2011finding, schwartz2013recognizing"
+Load cell (3),"roh2018sitting, roh2019estimation, bibbo2020influence"
+Optical-fiber-based (1),tavares2022instrumented
+Motion Sensors (36),
+Accelerometer (17),"wong2008smart, breen2009evaluation, johnson2010buzz, ribeiro2014effectiveness, samiei-zonouz2014smartphonecentric, liao2016design, shin2016beupright, ma2016sitting, liao2017collaborative, lim2018wearable, ochoa2018poor, gupta2020posture, rosero-montalvo2019intelligent, gupta2021detection, kuo2021sitting, otoda2018census, mizumoto2020design"
+Inertial Measurement Unit (13),"wang2015smart, petropoulos2017spomo, nishida2017standouter, bootsman2019wearable, ribeiro2020spine, kappattanavar2020position, wu2019development, petropoulos2020wearable, tang2021upper, sinha2021smartphonebased, kiran2021automatic, tlili2022design, tlili2022machine"
+Gyroscope (3),"hong2015beupo, estrada2016realtime, verma2021fpga"
+linear displacement sensors (2),"kulon2013rulebased, partlow20213d"
+Angular displacement sensor (1),kuo2019immediate
+Vision-based (31),
+Microsoft Kinect (18),"duffy2013measuring, taylor2013posture, bailly2016livingdesktop, paliyawan2014prolonged, ishimatsu2015finding, choi2015estimation, ho2016improving, liu2016healthy, yao2017new, wolfel2017acceptance, baptista2017flexible, min2018scene, wu2018activeergo, ding2019realtime, sun2019sitting, chin2019posture, sun2021kinectbased, wu2022recognition"
+Face detection (6),"lanmu2010sitting, song-lin2010human, kim2016feedback, shin2019slow, wang2019pointofchoice, ferreira2014breakout"
+Silhouette extraction (3),"jaimes2005sit, jaimes2006posture, mallare2017sitting"
+OpenPose (2),"chen2019sitting, wu2021posex"
+Motion capturing (1),gaffney2015evaluation
+Deep learning (1),kulikajevas2021detection
+Distance Sensors (9),
+Radio-Frequency Identification (RFID) tag (3),"li2021sitsen, feng2019are, feng2020sitr"
+Ultrasonic sensor (2),"alattas2014detecting, niijima2021posture"
+Depth sensor (2),"jaebonglee2014preventfhp, bei2017sitting"
+Lidar (1),katayama2022you
+HTC VIVE Pro tracker (1),shin2020body
+Deformation Sensors (8),
+Flex sensor (3),"demmans2007posture, nizam2020android, ardito2021lowcost"
+Strain sensor (2),"qian2018inverse, barone2019sensory"
+Optical-fiber sensor (2),"dunne2006design, dunne2008wearable"
+Charge-generating fabric (1),jiang2022knitted
+Other (16),
+Manual inspection (7),"dib2007effects, sigurdsson2008using, sigurdsson2011generalization, taieb-maimon2012effectiveness, epstein2012effects, shin2018actuating, soltaninejad2018sitlight"
+Mechanical switch (4),"azrin1968behavioral, obrien1970behavioral, yu2013evaluation, vanalmkerk2015improving"
+Temperature sensor (1),russell2017posture
+Capacitive proximity sensor (1),flutur2019smart
+Electromyography (EMG) (1),park2012effect
+Inductive proximity sensor (1),yoo2006effects
+Electrode (1),vergara2000system
+Combinations (25),
+"Gyroscope, accelerometer (2)","wong2008detecting, ozgul2022wearable"
+"Accelerometer, Vision-based Feature Detection (1)",estrada2017sitting
+"Tilt, Ultrasonic (1)",ramalingam2021alarming
+"Temperature, Sound (1)",russell2018posture
+"Load Cell, inclinometer (1)",russell2018posture
+"TFPS, Ultrasonic (5)","cho2019sitting, lee2021assistive, arshad2022intelligent, rosero-montalvo2019intelligenta, li2020design"
+"TFPS, infrared sensor (4)","jeong2021developing, lee2020human, zheng2013comparison, zheng2010cognitive"
+"TFPS, Microsoft Kinect (2)","ishimatsu2014bitaika, murata2016graphical"
+"TFPS, imu (2)","zemp2016application, ma2020smart"
+"TFPS, Optical Fibre Bend Sensor (1)",li2006smart
+"TFPS, Vision-Based Marker Detection (1)",bagalkot2019reride
+"TFPS, accelerometer (1)",hu2010providing
+"TFPS, temperature, blood pressure, pulse (1)",kumar2021design
+"TFPS, gyroscope, accelerometer, infrared (1)",hong2015better
+"TFPS, accelerometer, magnetometer, altimeter, temperature (1)",benocci2011contextaware

@@ -1,0 +1,65 @@
+#,paper,Feedback Type,Participants,Time (h),Days,Study Type,Task Category,Task,Measures
+1,daian2007sensitive,VIS + AU,6,6.0,1,in-situ,PC Tasks,participants' own work,"posture behaviour (sitting time,time in good posture, time to change posture), open feedback"
+2,sigurdsson2008using,Visual,8,24.0,1,lab,PC Tasks,typing task,"posture behaviour(time in good posture,subjective posture), task performance"
+3,ishimatsu2014bitaika,Visual,8,1.0,1,lab,PC Tasks,participants' own work,"posture behaviour (time in bad posture, number of interventions, time to change posture)"
+4,ishimatsu2015finding,VIS vs. VIS + AC,12,1.0,2,lab,PC Tasks,participants' own work,posture behaviour (time in bad posture)
+5,haller2011finding,VIS vs. VIS vs. VIB,12,1.5,1,lab,PC Tasks,"typing task, reading task","posture behaviour (frequency of posture types), task performance, usability"
+6,park2012effect,Visual,14,1.0,1,lab,PC Tasks,typing task,posture behaviour (posture angle)
+7,wolfel2017acceptance,Visual,16,3.0,1,lab,PC Tasks,"typing task, reading task",usability
+8,bootsman2019wearable,AU + VIB vs. AU + VIB + VIS,15,3.0,1,in-situ,sedentary work in special contexts,health care workers' daily work,"usability/UX, open feedback"
+9,bootsman2019wearable,AU + VIB vs. AU + VIB + VIS,13,3.5,1,in-situ,sedentary work in special contexts,health care workers' daily work,"usability/UX, open feedback, posture behaviour (frequency of bad posture, time in bad posture)"
+10,dib2007effects,VIS + AU,3,"2,880.0",16,in-situ,sedentary work in special contexts,flute playing,posture behaviour (number of interventions)
+11,moon2013comparison,Visual,3,96.0,4,in-situ,PC Tasks,participants' own work,posture behaviour (time in good posture)
+12,yu2013evaluation,Visual,4,360.0,15,in-situ,PC Tasks,participants' own work,posture behaviour (time in good posture)
+13,murata2016graphical,Visual,6,672.0,28,in-situ,PC Tasks,participants' own work,"posture behaviour (time in bad posture,  subjective posture), usability/UX"
+14,shin2016beupright,VIB vs. VIB + VIS,12,336.0,14,in-situ,PC Tasks,participants' own work,"open feedback, usability/UX, posture behaviour (frequency of posture change)"
+15,lee2020human,Visual,24,1.0,1,lab,PC Tasks,typing task,"usability/UX, posture behaviour(frequency of bad posture), task performance"
+16,speir2015posturechair,Visual,34,1.4,1,lab,PC Tasks,participants' own work,"posture behaviour (time in good posture, time in bad posture), usability/UX"
+17,kiran2021automatic,VIS vs. AU vs. AC,36,1.3,1,lab,PC Tasks,"typing task, mobile game","posture behaviour(time to correct a bad posture, posture angle, subjective posture) , usability/UX, comfort"
+18,zheng2013comparison,VIS vs. VIB,25,2.3,2,lab,PC Tasks,participants' own work,"posture behaviour (time in good posture, time in bad posture)"
+19,zheng2013comparison,VIS vs. VIB,41,0.3,1,lab,PC Tasks,typing task,"task performance, posture behaviour (time to change posture ), usability/UX"
+20,taieb-maimon2012effectiveness,Visual,50,"1,008.0",42,in-situ,PC Tasks,participants' own work,"posture behaviour(posture improvement over time), comfort"
+21,duffy2013measuring,Visual,4,96.0,4,lab,PC Tasks,participants' own work,"posture behaviour (time in good posture, time in  bad posture, frequency of posture change)"
+22,alattas2014detecting,VIS vs. AU vs. VIS + AU,24,9.0,1,lab,PC Tasks,participants' own work,"posture behaviour (time in good posture, time in  bad posture), comfort, usability/UX"
+23,vanalmkerk2015improving,VIS + AC,5,2.0,1,lab,PC Tasks,participants' own work,usability/UX
+24,azrin1968behavioral,Aural,25,7.0,2,in-situ,PC Tasks,participants' own work,"posture behaviour (time in bad posture, number of interventions), open feedback"
+25,barone2019sensory,Vibration,5,0.3,1,lab,PC Tasks,typing task,"posture behaviour (posture angle,time in good posture), usability/UX"
+26,breen2009evaluation,VIS + AU,6,10.0,2,lab,PC Tasks,participants' own work,posture behaviour (time in bad posture)
+27,demmans2007posture,Visual,7,6.0,1,lab,PC Tasks,participants' own work,"posture behaviour (number of interventions), comfort, usability/UX"
+28,epstein2012effects,AU + VIB,15,0.5,1,in-situ,sedentary work in special contexts,students' work,posture behaviour (time in good posture)
+29,epstein2012effects,Aural,N/A,"1,008.0",42,in-situ,PC Tasks,participants' own work,posture behaviour (time in good posture)
+30,fujita2021tiltchair,Active,12,1.2,1,lab,PC Tasks,typing task,"task performance (speed error rate) , usability/UX, posture behaviour(subjective posture)"
+31,fujita2021tiltchair,Active,12,1.3,1,lab,PC Tasks,typing task,"task performance (speed error rate) , usability/UX, posture behaviour (subjective posture, posture angle)"
+32,fujita2021tiltchair,Active,4,5.0,1,in-situ,PC Tasks,participants' own work,open feedback
+33,gaffney2015evaluation,AU vs. AU + VIS,20,0.5,1,lab,PC Tasks,participants' own work,posture behaviour (muscle activity) 
+34,goossens2012office,AU + VIB vs. AU,40,672.0,28,in-situ,PC Tasks,participants' own work,posture behaviour (time in good posture)
+35,ishac2017smart,Vibration,6,2.0,1,lab,testing / using the system,sitting,posture behaviour (time in good posture)
+36,ishac2018lifechair,Vibration,10,2.0,1,lab,PC Tasks,participants' own work,posture behaviour (time in good posture)
+37,johnson2010buzz,Vibration,4,168.0,4,in-situ,PC Tasks,participants' own work,open feedback
+38,kim2016feedback,Visual,14,1.0,1,lab,PC Tasks,participants' own work,"usability, functionality, posture behaviour (frequency of bad posture)"
+39,kuo2019immediate,Vibration,21,2.0,1,lab,PC Tasks,typing task,"posture behaviour (posture angle), comfort"
+40,kuo2021sitting,Vibration,21,2.0,1,lab,PC Tasks,typing task,"posture behaviour (posture angle), comfort"
+41,jaebonglee2014preventfhp,AU vs. VIB,18,1.5,1,lab,PC Tasks,reading task,"posture behaviour (time in good posture),  usability, comfort"
+42,lee2021assistive,VIS + AC + VIB,3,168.0,7,in-situ,PC Tasks,participants' own work,posture behaviour (posture improvement over time) 
+43,liao2017collaborative,VIB + VIS + AU,6,120.0,5,in-situ,sedentary work in special contexts,teens' own tasks,posture behaviour (time in good posture) 
+44,ng1995evaluation,Active,17,N/A,2,lab,testing / using the feedback,sitting,"comfort , posture behaviour (posture angle)"
+45,nizam2020android,VIS + VIB,9,N/A,1,lab,testing / using the feedback,sitting,usability
+46,obrien1970behavioral,Vibration,8,4.0,1,in-situ,sedentary work in special contexts,health care workers' daily work,posture behaviour (time in bad posture) 
+47,obrien1970behavioral,Vibration,6,1.5,1,in-situ,sedentary work in special contexts,health care workers' daily work,posture behaviour (time in bad posture) 
+48,ozgul2022wearable,VIS + VIB + AU,8,1.5,1,lab,testing / using the feedback,sitting,"posture behaviour (time to change posture, posture types)"
+49,ribeiro2014effectiveness,Aural,53,"1,008.0",30,in-situ,sedentary work in special contexts,health care workers' daily work,"posture behaviour (posture angle, posture improvement over time) , usability/UX"
+50,roossien2017can,VIS + VIB,45,"2,016.0",43,in-situ,PC Tasks,participants' own work,"posture behavior (time in good/ bad posture, frequency of posture change, sitting time) , comfort"
+51,shen2021seatplus,VIS + AC,12,0.3,1,in-situ,PC Tasks,participants' own work,"usability/UX, open feedback"
+52,shin2018actuating,Active,6,N/A,1,"lab, wizard-of-oz",PC Tasks,reading task,posture behaviour (types of bad posture)
+53,shin2018actuating,Active,8,2.5,1,lab,PC Tasks,"typing task, watching video",posture behaviour (types of posture change)
+54,shin2019slow,Active,12,8.0,2,lab,PC Tasks,participants' own work,"posture behaviour (time in bad posture), usability/UX, open feedback"
+55,shin2020body,Active,12,2.0,1,VR,PC Tasks,reading task,"posture behaviour (types of posture change, frequency of posture change), comfort, task performance"
+56,sigurdsson2011generalization,VIS + AU,3,27.0,81,in-situ,PC Tasks,typing task,"posture behaviour (time in good posture, number of interventions)"
+57,soltaninejad2018sitlight,Visual,4,2.0,1,lab,PC Tasks,participants' own work,"usability/UX, open feedback"
+58,vanderdoelen2011tactile,VIS + VIB,24,"1,008.0",42,in-situ,PC Tasks,participants' own work,posture behaviour (time in good posture) 
+59,wang2018virtualspine,Visual,5,24.3,2,in-situ,PC Tasks,participants' own work,"posture behaviour (posture types, time in good posture, time in bad posture, subjective posture) "
+60,wu2018activeergo,Active,12,0.1,1,lab,testing / using the feedback,adjusting chair,"usability/UX, posture behaviour (posture angle)"
+61,yingzheng2010vibrotactile,Vibration,10,3.0,2,lab,PC Tasks,participants' own work,posture behaviour (time in good posture)
+62,yoo2006effects,Aural,20,0.5,1,lab,PC Tasks,"reading task, typing task",posture behaviour (posture angle)
+63,zheng2010cognitive,Vibration,20,1.0,1,lab,PC Tasks,typing task,"task performance (typing speed, reaction time) "
+64,bailly2016livingdesktop,Active,36,N/A,1,online,testing / using the feedback,evaluation on the feedback,usability/UX
